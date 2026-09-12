@@ -3,8 +3,8 @@
   "short_name": "EyeTrainer",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f4f2ec",
-  "theme_color": "#f4f2ec",
+  "background_color": "#f6f1e8",
+  "theme_color": "#f6f1e8",
   "icons": [
     {
       "src": "icon-180.png",
